@@ -1,0 +1,29 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "assignment1 from service and security",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laerkeli/assignment1.git"
+  },
+  "keywords": [
+    "assignment1"
+  ],
+  "author": "Lærke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laerkeli/assignment1/issues"
+  },
+  "homepage": "https://github.com/laerkeli/assignment1#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "request": "^2.81.0"
+  }
+}
